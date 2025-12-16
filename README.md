@@ -62,5 +62,7 @@ PokerProject/               <-- (최상위 폴더)
 
 ```bash
 python src/poker_game.py
+```
 ![화면 캡처 2025-12-16 185520](https://github.com/user-attachments/assets/9c0cdec7-3717-48c5-95c3-08e74ed46682)
 ![화면 캡처 2025-12-16 185427](https://github.com/user-attachments/assets/83158d57-1278-4e0b-a2f8-0007a76cc4bd)
+```
